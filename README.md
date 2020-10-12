@@ -1,3 +1,6 @@
+# extend
+  origin will create  too much tcp connections .make each topic producer to public ,and can be closed .
+
 # sarama
 
 [![GoDoc](https://godoc.org/github.com/Shopify/sarama?status.svg)](https://godoc.org/github.com/Shopify/sarama)
